@@ -5,8 +5,8 @@
 ```sh
 $ git clone https://github.com/juunini/glb-animation-combiner.git
 $ cd glb-animation-combiner
-$ pnpm i
-$ pnpm dev
+$ npm i
+$ npm dev
 ```
 
 enter http://localhost:5173

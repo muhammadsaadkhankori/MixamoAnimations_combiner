@@ -4,7 +4,7 @@ import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader';
 import { GLTFExporter } from 'three/examples/jsm/exporters/GLTFExporter';
 import type { GLTF } from 'three/examples/jsm/loaders/GLTFLoader';
 
-const modelPath = '/models/saad.glb'
+const modelPath = '/models/Prof.glb'
 const animations = {
   Idle: '/animations/idle.glb',
   Walking: '/animations/walk.glb',

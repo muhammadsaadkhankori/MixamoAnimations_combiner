@@ -6,7 +6,7 @@
 $ git clone https://github.com/juunini/glb-animation-combiner.git
 $ cd glb-animation-combiner
 $ npm i
-$ npm dev
+$ npm run dev
 ```
 
 enter http://localhost:5173
